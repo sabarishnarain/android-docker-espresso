@@ -1,6 +1,6 @@
 # android-docker-espresso
 This project in github is only a placeholder for the docker images at sabarishnarain/android-docker-espresso repository. 
-The scripts are available in private Azure devops repository.
+The original Dockerfile and the scripts are available in private Azure devops repository.
 
 
 ## Docker Hub
