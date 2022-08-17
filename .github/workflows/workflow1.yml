@@ -1,0 +1,10 @@
+name: Workflow1
+on: [push]
+jobs:
+  workflow-1-job:
+    uses: ./.github/workflows/reusable-workflow.yml
+    with:
+      username: workflow1
+    secrets:
+      token: token1
+   
